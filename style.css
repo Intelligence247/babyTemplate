@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #cfb6b6;
+}
+
+main {
+    height: 54.75rem;
+    width: 23.4375rem;
+    background: #E5E5E5;
+}
+
+#forboth {
+    height: 5.5rem;
+    width: 23.4375rem;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 89.16%;
+    background: #FFFFFF;
+
+
+}
+
+.top {
+    display: inline-block;
+    display: flex;
+    border: 2px double #FFFFFF;
+    width: 23.4375rem;
+    height: 2.75rem;
+    flex-wrap: wrap;
+    gap: 10.5rem;
+    top: 0.875rem;
+
+}
+
+.time {
+    color: #000000;
+    position: absolute;
+    font-family: 'SF Pro Text';
+    text-align: center;
+    left: 1.32rem;
+    top: 0.875rem;
+
+}
+
+
+
+.battery {
+    /* top: 1.2rem; */
+    /* right: 5rem; */
+    position: inherit;
+    padding-top: 0.875rem;
+
+}
+
+.top2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #E4E4E4;
+    width: 90%;
+    height: 2.75rem;
+}
+
+
+
+
+#pics {
+    display: inline;
+    display: flex;
+    border-bottom: 1px solid #8a8585;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 0.6rem;
+    margin-top: 0.5;
+    margin-left: 0.6rem;
+
+}
+
+.text-beside {
+    top: 1.3rem;
+    position: relative;
+}
+
+.arrowright {
+    position: relative;
+    /* align-items: right; */
+    /* gap: 8rem; */
+    top: 2.34rem;
+    left: 10.5rem;
+}
+
+.text-beside p:first-child {
+    Font-family: SF Pro Text;
+    Font-style: Bold;
+    Font-size: 17px;
+    font-weight: bold;
+}
+
+#img {
+    padding-top: 0.7rem;
+}
+
+.last {
+    align-items: center;
+    position: relative;
+    margin-top: 2rem;
+
+}
+
+.settings {
+    width: 1rem;
+}
