@@ -1,5 +1,5 @@
 # babyTemplate
-*An implementation of cybergate clone with html and css*
+*An implementation of babyTemplate clone with html and css*
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Features
