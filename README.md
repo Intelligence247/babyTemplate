@@ -7,6 +7,8 @@
 ## Tech/framework used
 - Html
 - Css
+## demo
+[preview](https://rawcdn.githack.com/Intelligence247/babyTemplate/9daf1065295ff51c6a088c7b4e07c05ef0d3dadd/index.html)
 ## Contact
 If you want to contact me you can reach me at
 - https://github.com/Intelligence247 or
